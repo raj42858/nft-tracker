@@ -350,7 +350,7 @@ export default function NFTTracker() {
               <div className="flex-1" />
 
               <div className="flex bg-[#111] rounded-lg p-0.5">
-                <button onClick={() => setView('grid')} className={`p-1.5 rounded-md ${view === 'grid' ? 'bg-white text-black' : 'text-neutral-500'}`}><Grid3X3 size={14} /></button>
+                <button onClick={() => setView('grid')} className={`p-1.5 rounded-md ${view === 'grid' ? 'bg-white text-black' : 'text-neutral-500'}`}><Grid3x3 size={14} /></button>
                 <button onClick={() => setView('list')} className={`p-1.5 rounded-md ${view === 'list' ? 'bg-white text-black' : 'text-neutral-500'}`}><List size={14} /></button>
               </div>
 
