@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useCallback } from 'react';
-import { Search, Plus, Trash2, Upload, X, Flag, Zap, Moon, ExternalLink, ChevronLeft, List, RefreshCw, Loader2, Eye } from 'lucide-react';
+import { Search, Plus, Trash2, Upload, X, Flag, Zap, Moon, ExternalLink, ChevronLeft, Grid3x3, List, RefreshCw, Loader2, Eye } from 'lucide-react';
 
 // ⚠️ CHANGE THIS to your Railway backend URL after deploying
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
