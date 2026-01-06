@@ -60,9 +60,7 @@ git push -u origin main
 2. Go to "Variables" tab
 3. Add these:
 ```
-OPENSEA_API_KEY=0d4d5542c15e4ee9b38418d47f711ef2
-ALCHEMY_API_KEY=FkzSXZO5qT_R9gh0oJzMG
-ETHERSCAN_API_KEY=9EQPW2MJG7KHVQWK8YR9V6SMPWB7YV5SS3
+
 ```
 
 #### Get Your Backend URL:
